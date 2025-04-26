@@ -4,6 +4,7 @@
 
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Unic Beira Rio. Atualmente trabalho e estudo paralelamente.
 Estou constantemente procurando mais conhecimentos e buscando novos desafios na área de tecnologia. 
+  
 #
 
 - 🗺 Moro em Cuiába-MT
