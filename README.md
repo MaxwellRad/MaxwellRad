@@ -1,4 +1,4 @@
-## OI eu sou Maxwell Rad 👋
+## Hey devs! eu sou o Maxwell Rad 👋
 
 - 🗺 Moro em Cuiába-MT
 - 🌱 Cursando ADS na Unic Beira Rio
