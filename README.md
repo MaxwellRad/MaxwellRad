@@ -14,9 +14,6 @@ Estou constantemente procurando mais conhecimentos e buscando novos desafios na 
 </picture>
 
 
-- 🗺 Moro em Cuiába-MT
-- 🌱 Cursando ADS na Unic Beira Rio
-- 😄 Pronouns: ele/dele
 
 <div> 
   <a href="https://instagram.com/m4xwellzinho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
