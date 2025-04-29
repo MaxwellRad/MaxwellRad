@@ -7,6 +7,13 @@ Estou constantemente procurando mais conhecimentos e buscando novos desafios na 
   
 #
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaxwellRad/MaxwellRad/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaxellRad/MaxellRad/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MaxellRad/MaxellRad/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 - 🗺 Moro em Cuiába-MT
 - 🌱 Cursando ADS na Unic Beira Rio
 - 😄 Pronouns: ele/dele
@@ -21,10 +28,4 @@ Estou constantemente procurando mais conhecimentos e buscando novos desafios na 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxwellRad&show_icons=true&theme=radical)
 
 #
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaxwellRad/MaxwellRad/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaxellRad/MaxellRad/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MaxellRad/MaxellRad/output/github-contribution-grid-snake.svg">
-</picture>
 
