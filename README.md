@@ -1,4 +1,4 @@
-## Hey devs! eu sou o Maxwell Rad 👋
+## Hey devs! I am Maxwell Rad 👋
 
 #
 
