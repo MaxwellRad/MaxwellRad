@@ -2,17 +2,9 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Unic Beira Rio. Desenvolvedor em constante evolução | Apaixonado por tecnologia, aprendizado e desafios. Atualmente estudando Java, Spring Boot, Python e Inteligência Artificial. Focado em criar soluções que fazem a diferença, com código limpo, organizado e funcional.
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Unic Beira Rio. Desenvolvedor em constante evolução | Apaixonado por tecnologia, aprendizado e desafios. Atualmente estudando Java, CyberSecurity e Banco de Dados. Focado em criar soluções que fazem a diferença, com código limpo, organizado e funcional.
   
 #
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaxwellRad/MaxwellRad/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaxellRad/MaxellRad/output/github-contribution-grid-snake-white.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MaxellRad/MaxellRad/output/github-contribution-grid-snake.svg">
-</picture>
-
-
 
 <div> 
   <a href="https://instagram.com/maxwellrad_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
