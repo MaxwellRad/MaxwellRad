@@ -2,7 +2,7 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Unic Beira Rio. Desenvolvedor em constante evolução | Apaixonado por tecnologia, aprendizado e desafios. Atualmente estudando Java, CyberSecurity e Banco de Dados. Focado em criar soluções que fazem a diferença, com código limpo, organizado e funcional.
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Unic Beira Rio. Desenvolvedor em constante evolução | Apaixonado por tecnologia, aprendizado e desafios. .
   
 #
 
