@@ -2,7 +2,7 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Unic Beira Rio. Desenvolvedor em constante evolução | Apaixonado por tecnologia, aprendizado e desafios. .
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Unic Beira Rio. Desenvolvedor em constante evolução | Apaixonado por tecnologia, aprendizado e desafios. 
   
 #
 
